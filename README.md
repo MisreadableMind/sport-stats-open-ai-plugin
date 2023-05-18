@@ -8,4 +8,4 @@
 - [ChatGPT plugins Doc](https://platform.openai.com/docs/plugins/introduction)
 - [OpenAPI Specification](https://swagger.io/specification)
 
-s
+sport-stats-open-ai-plugin is a plugin for ChatGPT that provides sports statistics. This plugin enhances the capabilities of ChatGPT by integrating with sports APIs, allowing users to obtain real-time sports data and engage in sports-related conversations.
